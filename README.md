@@ -1,6 +1,8 @@
 # Anomaly Detection for Time Series Data using Python
 This project is a streamlit application that detects anomalies in time series data using the ADTK (Anomaly Detection Toolkit) library in Python. Users can choose from different anomaly detection methods, including ThresholdAD, QuantileAD, and InterQuartileRangeAD (IQR), etc to analyze the dataset and visualize the detected anomalies.
 
+### [Click Here to View Project](https://kulraj710-simple-anomaly-detection-main-p7rrsa.streamlit.app/)
+
 **TO-DO**
 - (feature) Add an option such that the user can upload data via CSV file.
 - (feature) Add an option such that the user can tweak/adjust different parameters.
